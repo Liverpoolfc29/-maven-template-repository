@@ -1,2 +1,2 @@
-# -maven-template-repository
+# maven-template-repository
 Maven template repository 
